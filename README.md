@@ -1,5 +1,8 @@
 # Epik Funkin, a mod for Friday Night Funkin made by DecoTheEpicGuy!
 
+Download the mod
+https://gamebanana.com/wips/72545
+
 # What is this mod built into
 
 This mod is built into a lua modified Psych Engine 0.6.3
